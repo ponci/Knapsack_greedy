@@ -1,2 +1,2 @@
-# Knapsack_greedy
+# Knapsack Greedy
 Knapsack problem using greedy algorithm
