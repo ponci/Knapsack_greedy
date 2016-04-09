@@ -1,0 +1,14 @@
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_bruteforce\bin\Debug\archive.txt
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_bruteforce\bin\Debug\Knapsack_greedy.exe.config
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_bruteforce\bin\Debug\Knapsack_greedy.exe
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_bruteforce\bin\Debug\Knapsack_greedy.pdb
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_bruteforce\obj\Debug\Knapsack_greedy.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_bruteforce\obj\Debug\Knapsack_greedy.exe
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_bruteforce\obj\Debug\Knapsack_greedy.pdb
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_greedy\bin\Debug\Knapsack_greedy.exe.config
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_greedy\obj\Debug\Knapsack_greedy.exe
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_greedy\obj\Debug\Knapsack_greedy.pdb
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_greedy\bin\Debug\archive.txt
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_greedy\bin\Debug\Knapsack_greedy.exe
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_greedy\bin\Debug\Knapsack_greedy.pdb
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\Knapsack_greedy\Knapsack_greedy\obj\Debug\Knapsack_greedy.csprojResolveAssemblyReference.cache
